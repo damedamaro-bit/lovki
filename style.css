@@ -592,5 +592,7 @@ body {
     font-size: 16px;
 }
     .card1 .username { font-size: 16px; }
-    .card1 .cover-subtitle { font-size: 13px; }
-}
+    .card1 .cover-subtitle {
+    font-family: 'Sriracha', cursive;
+    font-size: 16px;
+    }
