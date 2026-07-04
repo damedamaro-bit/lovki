@@ -587,7 +587,10 @@ body {
     }
 
     .card1 .cover-title { font-size: 34px; }
-    .card2-message-text { font-size: 13px; }
+    .card2-message-text {
+    font-family: 'Sriracha', cursive;
+    font-size: 16px;
+}
     .card1 .username { font-size: 16px; }
     .card1 .cover-subtitle { font-size: 13px; }
 }
